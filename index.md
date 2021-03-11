@@ -1,8 +1,9 @@
 ---
-title: Onbeperkt 4G Zakelijk
+title: Home
 subtitle: Onbeperkt mobiel internet voor de zakelijke markt
 layout: page
-show_sidebar: true
+show_sidebar: false
+menubar: zijbalkmenu
 ---
 
 **Zakelijk telecom**

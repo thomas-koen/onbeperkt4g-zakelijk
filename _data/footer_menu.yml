@@ -1,0 +1,8 @@
+- name: Blog
+  link: /blog/
+- name: Over ons
+  link: /over-ons/
+- name: Privacy & Voorwaarden
+  link: /privacy-voorwaarden/
+- name: Contact
+  link: /contact/

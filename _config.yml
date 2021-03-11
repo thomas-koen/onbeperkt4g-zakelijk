@@ -31,6 +31,16 @@ remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
+
+# Bulma clean theme instellingen
+footer_menu: footer_menu
+
+# blog instellingen
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Einde bulma clean theme instellingen
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -1,0 +1,11 @@
+- name: Aanbieders
+  link: /aanbieders/
+  dropdown:
+    - name: T-Mobile
+      link: /t-mobile/
+    - name: Vodafone
+      link: /vodafone/
+    - name: KPN
+      link: /kpn/
+- name: Over ons
+  link: /over-ons/

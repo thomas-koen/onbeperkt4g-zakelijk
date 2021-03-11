@@ -1,0 +1,8 @@
+- label: Zakelijke telecom providers
+  items:
+    - name: KPN Zakelijk
+      link: /kpn/
+    - name: T-Mobile zakelijk
+      link: /t-mobile/
+    - name: Vodafone zakelijk
+      link: /vodafone/
