@@ -29,7 +29,21 @@ markdown: kramdown
 #theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 
 # Bulma clean theme instellingen
