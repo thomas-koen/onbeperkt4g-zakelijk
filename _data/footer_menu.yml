@@ -1,5 +1,7 @@
 - name: Blog
   link: /blog/
+- name: Partners
+  link: /partners/
 - name: Over ons
   link: /over-ons/
 - name: Privacy & Voorwaarden
