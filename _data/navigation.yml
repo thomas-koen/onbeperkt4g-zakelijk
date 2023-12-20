@@ -1,7 +1,7 @@
 - name: Aanbieders
   link: /aanbieders/
   dropdown:
-    - name: T-Mobile
+    - name: Odido
       link: /t-mobile/
     - name: Vodafone
       link: /vodafone/
