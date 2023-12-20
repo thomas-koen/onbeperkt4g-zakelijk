@@ -7,5 +7,7 @@
       link: /vodafone/
     - name: KPN
       link: /kpn/
+- name: Veelgestelde vragen
+  link: /faq/
 - name: Over ons
   link: /over-ons/
