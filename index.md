@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Onbeperkt 4G Zakelijk
 subtitle: Onbeperkt mobiel internet voor de zakelijke markt
 layout: page
 show_sidebar: false
