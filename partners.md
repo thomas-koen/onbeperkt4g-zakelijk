@@ -9,3 +9,5 @@ menubar: zijbalkmenu
 <a href="https://gsmreparatie.nl/reparaties/samsung/" target="_blank">Scherm reparatie samsung Breda</a>
 
 <a href="https://unlocksmartphone.nl/" target="_blank">unlocksmartphone.nl</a>
+
+<a href="https://www.portofoonweb.nl/portofoon/walkie-talkie.html" target="_blank">Walkie talkie kopen</a>
