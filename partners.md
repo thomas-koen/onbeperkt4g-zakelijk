@@ -31,3 +31,5 @@ menubar: zijbalkmenu
 
 
 <a href="https://www.upmention.nl/" target="_blank">upMention Advies</a>
+
+<a href="https://www.x-cel.nl/excel-cursus/" target="_blank">Excel cursus - Xcel.nl</a>
