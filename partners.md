@@ -35,3 +35,5 @@ menubar: zijbalkmenu
 <a href="https://www.x-cel.nl/excel-cursus/" target="_blank">Excel cursus - Xcel.nl</a>
 
 <a href="https://www.floryn.com/zakelijke-lening-zonder-jaarcijfers-bkr" target="_blank">zakelijk lenen zonder jaarcijfers</a>
+
+<a href="https://marketresponse.nl/bsr/resources/psychografisch-segmenteren/" target="_blank">psychografisch segmenteren</a>
