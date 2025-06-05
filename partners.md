@@ -37,3 +37,5 @@ menubar: zijbalkmenu
 <a href="https://www.floryn.com/zakelijke-lening-zonder-jaarcijfers-bkr" target="_blank">zakelijk lenen zonder jaarcijfers</a>
 
 <a href="https://marketresponse.nl/bsr/resources/psychografisch-segmenteren/" target="_blank">psychografisch segmenteren</a>
+
+<a href="https://www.credion.eu/nl/financieringen/bedrijfslening" target="_blank">bedrijfslening</a>
