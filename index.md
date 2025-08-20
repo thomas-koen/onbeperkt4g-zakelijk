@@ -7,11 +7,12 @@ subtitle: Onbeperkt mobiel internet voor de zakelijke markt
 
 ### Bekijk direct de zakelijke oplossingen:
 
-|                                                    |                                 |
-|----------------------------------------------------|---------------------------------|
-| [![](assets/images/odidosmall.png)](/t-mobile/)    | [Odido Zakelijk](/t-mobile/)    |
-| [![](assets/images/kpnsmall.png)](/kpn/)           | [KPN Zakelijk](/kpn/)           |
-| [![](assets/images/vodafonesmall.png)](/vodafone/) | [Vodafone Zakelijk](/vodafone/) |
+|                                                                                                                    |                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| [![](assets/images/odidosmall.png)](/t-mobile/)                                                                    | [Odido Zakelijk](/t-mobile/)                                                                                  |
+| [![](assets/images/kpnsmall.png)](/kpn/)                                                                           | [KPN Zakelijk](/kpn/)                                                                                         |
+| [![](assets/images/vodafonesmall.png)](/vodafone/)                                                                 | [Vodafone Zakelijk](/vodafone/)                                                                               |
+| [![](assets/images/internet-creators-logo.png)](https://www.internetcreators.nl/odido-5g-internet-voor-bedrijven/) | [Internet Creators (vast internet via 5G)](https://www.internetcreators.nl/odido-5g-internet-voor-bedrijven/) |
 
 
 > _Altijd bereikbaar voor je collega’s. Onbeperkt 4G internet. Zo werk je prettig op afstand_
