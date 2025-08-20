@@ -28,3 +28,14 @@ menubar: zijbalkmenu
 
 <a href="https://www.luchtbed.nl/intex-luchtbedden" target="_blank">intex luchtbed</a>
 
+
+
+<a href="https://www.upmention.nl/" target="_blank">upMention Advies</a>
+
+<a href="https://www.x-cel.nl/excel-cursus/" target="_blank">Excel cursus - Xcel.nl</a>
+
+<a href="https://www.floryn.com/zakelijke-lening-zonder-jaarcijfers-bkr" target="_blank">zakelijk lenen zonder jaarcijfers</a>
+
+<a href="https://marketresponse.nl/bsr/resources/psychografisch-segmenteren/" target="_blank">psychografisch segmenteren</a>
+
+<a href="https://www.credion.eu/nl/financieringen/bedrijfslening" target="_blank">bedrijfslening</a>
